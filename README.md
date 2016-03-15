@@ -1,2 +1,3 @@
 # hello-world
-My first repo!
+
+Hi! These are some edits I'm making to test out Github.
